@@ -3,7 +3,7 @@
          height="45"
          width="45" /> I'm HwiJoon Lee</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic&style=for-the-badge" alt="Halfgear" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Halfgear&label=Views&color=blue&style=plastic&style=for-the-badge" alt="Halfgear" /> </p>
 
 # 💫 About Me :
 - 🔭 I’m currently working on my own website and developing discord bots.
