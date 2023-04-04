@@ -7,12 +7,9 @@
 
 # 💫 About Me :
 - 🔭 I’m currently working on my own website and developing discord bots.
-- 🌱 I’m currently learning Backend Development.
-- 👯 I’m looking to collaborate on any project that I can help with.
 - 💬 Ask me about Object Oriented Programming and Discord Bots.
 - 📫 How to reach me: lee.hw@northeastern.edu
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I was Chemistry major in 2022.
+- ⚡ Fun fact: I was Chemistry major last year.
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joonlh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/lee-hwi-joon-3004401a4) 
@@ -25,4 +22,5 @@
 ## 💳 Github Profile Summary Card
 [![github activity card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=halfgear&theme=vue)](https://jooncode.com/)
 
-## Visit my website for Posts! [here](https://jooncode.com/)
+## Visit my website for Posts!
+[here](https://jooncode.com/)
