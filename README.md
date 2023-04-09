@@ -19,7 +19,7 @@
 ## 📈 Activity Graph
 [![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Halfgear&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://jooncode.com/)
 
-## 💳 Github Profile Summary Card
+## 💳 Github Profile Summary CARD
 [![github activity card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=halfgear&theme=vue)](https://jooncode.com/)
 
 ## Visit my website for Posts!
