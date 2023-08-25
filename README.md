@@ -6,10 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Halfgear&label=Views&color=blue&style=plastic&style=for-the-badge" alt="Halfgear" /> </p>
 
 # 💫 About Me :
-- 🔭 I’m currently working on my own website and developing discord bots.
-- 💬 Ask me about Object Oriented Programming and Discord Bots.
+- 🔭 I’m currently working on developing a new player friendly valorant website.
+- 💬 Ask me about Valorant API and Object Oriented Design.
 - 📫 How to reach me: lee.hw@northeastern.edu
-- ⚡ Fun fact: I was Chemistry major last year.
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joonlh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/lee-hwi-joon-3004401a4) 
