@@ -18,6 +18,3 @@
 
 ## 💳 Github Profile Summary CARD
 [![github activity card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=halfgear&theme=vue)](https://jooncode.com/)
-
-## Visit my website for Posts!
-[here](https://jooncode.com/)
