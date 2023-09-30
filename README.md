@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Halfgear&label=Views&color=blue&style=plastic&style=for-the-badge" alt="Halfgear" /> </p>
 
-# 💫 About Me :
+# 💫 About Me
 - 🔭 I am a developer who tries to understand the particular needs of users. 
 - 💬 My focus is on streamlining user experience.
 - 📫 How to reach me: lee.hw@northeastern.edu
