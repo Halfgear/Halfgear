@@ -17,3 +17,4 @@
 
 ## 💳 Github Profile Summary CARD
 [![github activity card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=halfgear&theme=vue)](https://jooncode.com/)
+[![Joon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Halfgear)](https://github.com/anuraghazra/github-readme-stats)
