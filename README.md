@@ -16,6 +16,6 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
 
 ## 💳 Github Profile Summary CARD
-[![github activity card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=halfgear&theme=vue)](https://jooncode.com/)
+[![github activity card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Halfgear&theme=vue)](https://jooncode.com/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Halfgear&layout=compact&theme=vue)
